@@ -1,0 +1,21 @@
+<div class="bui-page bui-box-vertical">
+    <header>
+       <div class="bui-bar">
+        <div class="bui-bar-left">
+            <a class="bui-btn" onclick="bui.back();"><i class="icon-back"></i></a>
+        </div>
+        <div class="bui-bar-main">Page 2</div>
+        <div class="bui-bar-right">
+            <!-- 右边按钮 -->
+        </div>
+       </div>
+    </header>
+    <main>
+        <!-- 正文内容 -->
+        接收的参数：id:<b b-text="page.form.id"></b>
+    </main>
+    <footer class="container-xy">
+        <!-- 底部内容 -->
+        <div class="bui-btn success ring" b-click="page.getProps">动态获取接收参数</div>
+    </footer>
+</div>

@@ -1,6 +1,8 @@
 # BUI-Sample
 
-> BUI 干净的单页工程模板示例，可以直接在Github开发，Fork当前项目即可
+> BUI 干净的单页工程模板示例，可以直接在Github开发，Fork当前项目即可。如果使用 `github-codepace` 或者`vscode` 开发，安装 `bui-fast` 插件可以明显提升开发速度。
+
+> codespace 开发，记得关闭自动保存文件。
 
 [进入官网预览模板](http://www.easybui.com/).
 
